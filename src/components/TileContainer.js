@@ -5,7 +5,7 @@ import Info from '../styles/info';
 import Logo from '../styles/logo';
 import H2 from '../styles/h2';
 
-// Statless Functional Component
+// Statless Functional Component receiving props
 const TileContainer = (props) => {
   return (
     <TileWrapper>
