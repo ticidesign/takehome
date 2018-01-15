@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import Main from '../styles/main';
 import TileContainer from './TileContainer';
 
-
 export default class App extends Component {
   render() {
     return (
