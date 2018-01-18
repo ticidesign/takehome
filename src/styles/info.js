@@ -5,8 +5,7 @@ export default styled.div`
   position: absolute;
   bottom: 0;
   left: 0;
-  transform: translateY(100%);
-  width: calc(100% - 4vw);
+  width: calc(100% - 3vw);
   padding: 1vw 2vw;
   background: rgba(0, 0, 0, 0.7);
   display: flex;

@@ -1,8 +1,6 @@
 Visit:
 
-[https://ticidesign.github.io/takehome.github.io/](https://ticidesign.github.io/takehome.github.io/)
-
-[https://takehome-component.herokuapp.com/](https://takehome-component.herokuapp.com/)
+[https://ticidesign.github.io/takehome](https://ticidesign.github.io/takehome)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 

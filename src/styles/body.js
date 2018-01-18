@@ -23,7 +23,7 @@ injectGlobal`
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    background-color: #ececec;
+    background-color: #0e0e0e;
   }
 
   #root, #root > div {

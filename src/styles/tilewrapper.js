@@ -13,10 +13,5 @@ export default styled.div`
   align-items: center;
   overflow: hidden;
   cursor: pointer;
-  &:hover ${Info} {
-    transform: translateY(0%);
-  }
-  &:hover ${Tile} {
-    transform: scale(1.1);
-  }
+  border: 20px solid #010101;
 `;

@@ -5,5 +5,6 @@ export default styled.h2`
   font-family: "Merriweather Sans";
   font-size: calc(1vw + 1vh);
   font-weight: 400;
+  letter-spacing: -1px;
   color: white;
 `;
